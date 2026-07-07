@@ -1,0 +1,13 @@
+streamlit>=1.32.0
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.9
+pydantic>=2.6.0
+opencv-python-headless>=4.9.0
+numpy>=1.26.0
+sympy>=1.12
+easyocr>=1.7.1
+matplotlib>=3.8.0
+openai>=1.12.0
+fpdf2>=2.7.0
+Pillow>=10.2.0

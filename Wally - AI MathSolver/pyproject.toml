@@ -1,0 +1,9 @@
+[project]
+name = "ai-math-tutor"
+version = "1.0.0"
+description = "Take a photo of a math problem and get a verified step-by-step solution"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Arindam Chakraborty", email = "arindcha@gmail.com" },
+]
